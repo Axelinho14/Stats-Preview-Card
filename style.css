@@ -79,7 +79,7 @@ body{
 .right-img{
     height:11.5cm ;
     width:14cm ;
-    background-image: linear-gradient(rgba(122, 52, 165, 0.5),rgba(122, 52, 165, 0.5)), url(/image/image-header-desktop.jpg);
+    background-image: linear-gradient(rgba(122, 52, 165, 0.5),rgba(122, 52, 165, 0.5)), url(image/image-header-desktop.jpg);
     border-top-right-radius: 0.3cm;
     border-bottom-right-radius: 0.3cm;
 }
