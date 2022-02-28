@@ -99,7 +99,7 @@ body{
       border-radius: 0cm 0cm 0.3cm 0.3cm ;
     }
     .right-img{
-        background-image:linear-gradient(rgba(122, 52, 165, 0.5),rgba(122, 52, 165, 0.5)), url(/image/image-header-mobile.jpg);
+        background-image:linear-gradient(rgba(122, 52, 165, 0.5),rgba(122, 52, 165, 0.5)), url(image/image-header-mobile.jpg);
         background-size:100%;
         width: 8cm;
         height: 5.87cm;
